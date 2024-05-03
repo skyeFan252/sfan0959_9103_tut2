@@ -12,7 +12,7 @@ The imaging technique I'll be employing is called color lerp. This method allows
 
 [URL for the code](https://editor.p5js.org/KevinWorkman/sketches/OdeY6jRpI)
 
-![Image of the color effect](/Users/sishifan/Documents/sfan0959_9103_tut2/assignment/assets/Screenshot.png)
+![Image of the color effect](assignment/assets/Screenshot.png)
 
 Three main techniques used to achieve this effect:
 
